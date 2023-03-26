@@ -1,0 +1,35 @@
+{
+  "heroes": [
+    {
+      "id": "e8d163d9-99b9-4c92-9c23-f07f49dd9a07",
+      "name": "Strong ",
+      "description": "Power of strong",
+      "element": "earth"
+    },
+    {
+      "id": "6063e940-25bc-4cd7-826f-30eea3e8a1df",
+      "name": "Fliy",
+      "description": "I can fliy",
+      "element": "water"
+    },
+    {
+      "id": "48a822d2-4000-4849-85d9-ed69784dd73a",
+      "name": "Fire",
+      "description": "I have a fire",
+      "element": "fire"
+    },
+    {
+      "id": "0b47f122-390e-4463-a148-3daf8a33c65c",
+      "name": "Wind",
+      "description": "wind",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
